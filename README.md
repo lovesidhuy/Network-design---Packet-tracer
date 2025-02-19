@@ -3,6 +3,8 @@
 In this project, I designed and implemented a multi-VLAN network with inter-VLAN routing, OSPF dynamic routing, NAT (Network Address Translation), and GRE tunneling for secure communication between a CorporateRouter and a SiteRouter. I configured ACLs (Access Control Lists) to enforce security policies, preventing unauthorized VLAN access while maintaining necessary interconnectivity. Additionally, I
 successfully tested NAT translations, ensuring external reachability for internal devices like PC8, and verified GRE tunnel functionality over a serial link. This setup provides a scalable and secure network architecture, integrating multiple technologies for real-world networking solutions.
 
+![image](https://github.com/user-attachments/assets/b8a63a70-5b6d-4c1e-8c85-80e9c497bfc3)
+
 
 VLAN
 
